@@ -1,0 +1,7 @@
+[submodule "li_slam_ros2"]
+	path = li_slam_ros2
+	url = https://github.com/rsasaki0109/li_slam_ros2
+	branch = humble
+[submodule "li_slam_ros2/Thirdparty/ndt_omp_ros2"]
+	path = li_slam_ros2/Thirdparty/ndt_omp_ros2
+	url = https://github.com/rsasaki0109/ndt_omp_ros2
